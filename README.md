@@ -1,4 +1,13 @@
-# C Mini Projects
+## Projects List
 
-This repository contains small C projects created to practice logic,
-problem-solving, and real-world programming concepts.
+1. Calculator
+2. Number Guessing Game
+3. Student Record Management System
+
+## Technologies
+- C Programming
+- File Handling
+- Loops & Functions
+
+## Author
+Pragyansh Gaur
